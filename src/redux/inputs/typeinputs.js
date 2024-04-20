@@ -1,0 +1,1 @@
+export const TEST_INPUT = 'TEST_INPUT'

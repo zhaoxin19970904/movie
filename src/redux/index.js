@@ -1,0 +1,1 @@
+export {inputt} from './inputs/inputs'
